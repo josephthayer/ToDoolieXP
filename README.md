@@ -1,8 +1,11 @@
 =================ToDoolie XP API =======================
 
 Web application made for ToDoolie LLC. that rewards student users with "XP". These points are rewarded to the user for the following:
+
 signing up on the main todoolie platform
+
 referring a friend
+
 accumulating hours worked
 
 Dependencies:
