@@ -1,0 +1,29 @@
+{
+  "name": "todooliexp",
+  "version": "1.0.0",
+  "description": "=================ToDoolie XP API =======================\r Web application made for ToDoolie LLC. that rewards student users with \"XP\". These points are rewarded to the user for the following:\r signing up on the main todoolie platform\r referring a friend\r accumulating hours worked",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephthayer/ToDoolieXP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephthayer/ToDoolieXP/issues"
+  },
+  "homepage": "https://github.com/josephthayer/ToDoolieXP#readme",
+  "dependencies": {
+    "angular-password": "^1.0.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongodb": "^3.1.1",
+    "mongoose": "^5.2.6",
+    "nodemailer": "^4.6.7",
+    "request": "^2.87.0",
+    "twilio": "^3.17.6"
+  }
+}
